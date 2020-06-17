@@ -1,5 +1,5 @@
 # Visual-Cryptography-GUI-Tool
-Visual Cryptography is a cryptographic technique which allows visual information pictures, text, etc.) to be encrypted in such a way that the decrypted information appears as a visual image.  
+Visual Cryptography is a cryptographic technique which allows visual information (pictures, text, etc.) to be encrypted in such a way that the decrypted information appears as a visual image.  
 
 where an image was broken up into N number of shares so that only someone with all N shares could decrypt the image, while any N − 1 shares revealed no information about the original image. Each share was printed on a separate transparency, and decryption was performed by overlaying the shares. When all n shares were overlaid, the original image would appear.  
 
