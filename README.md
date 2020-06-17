@@ -16,4 +16,4 @@ Steps:
 - Saving Image Shares on Hard Drive
 - Uploading Module
 
-
+To know more about visual cryptography please visit : https://en.wikipedia.org/wiki/Visual_cryptography
